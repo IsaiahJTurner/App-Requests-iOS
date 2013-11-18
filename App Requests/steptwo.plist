@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>in-progress</key>
+	<dict>
+		<key>email</key>
+		<string></string>
+		<key>twitter</key>
+		<string></string>
+		<key>phone</key>
+		<string></string>
+		<key>imessage</key>
+		<string></string>
+		<key>appnet</key>
+		<string></string>
+		<key>skype</key>
+		<string></string>
+		<key>othername</key>
+		<string></string>
+		<key>otherhandle</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
