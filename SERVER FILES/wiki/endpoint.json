@@ -1,0 +1,21 @@
+{
+  "apiVersion":"0.1",
+  "swaggerVersion":"1.1-SNAPSHOT",
+  "basePath":"http://api.apprequestsapp.com/AppRequest/in-app/",
+  "resourcePath":"/",
+  "apis":[
+    {
+      "path":"rate.php",
+      "description":"This request must be proccessed in a browser. It redirects the user to the App Store rating page by using PHP's header(\"Location: [URL]\")",
+      "operations":[
+        {
+          "httpMethod":"GET",
+          "summary":"Redirect user to App Store rating page.",
+          "notes":"This request must be proccessed in a browser. It redirects the user to the App Store rating page by using PHP's header(\"Location: [URL]\")",
+          "nickname":"rateApp"
+          
+        }
+      ]
+    }
+  ]
+}
